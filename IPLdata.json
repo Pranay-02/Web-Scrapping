@@ -1,0 +1,464 @@
+{
+    "Mumbai Indians ": {
+        "Rohit (c)": {
+            "TotalRuns": "12",
+            "TotalBalls": "10",
+            "ToatlFours": "2",
+            "TotalSixes": "0",
+            "StrikeRate": "120.00"
+        },
+        "de Kock (wk)": {
+            "TotalRuns": "33",
+            "TotalBalls": "20",
+            "ToatlFours": "5",
+            "TotalSixes": "0",
+            "StrikeRate": "165.00"
+        },
+        "Suryakumar Yadav": {
+            "TotalRuns": "17",
+            "TotalBalls": "16",
+            "ToatlFours": "2",
+            "TotalSixes": "0",
+            "StrikeRate": "106.25"
+        },
+        "Saurabh Tiwary": {
+            "TotalRuns": "42",
+            "TotalBalls": "31",
+            "ToatlFours": "3",
+            "TotalSixes": "1",
+            "StrikeRate": "135.48"
+        },
+        "Hardik Pandya": {
+            "TotalRuns": "14",
+            "TotalBalls": "10",
+            "ToatlFours": "0",
+            "TotalSixes": "2",
+            "StrikeRate": "140.00"
+        },
+        "Pollard": {
+            "TotalRuns": "18",
+            "TotalBalls": "14",
+            "ToatlFours": "1",
+            "TotalSixes": "1",
+            "StrikeRate": "128.57"
+        },
+        "Krunal Pandya": {
+            "TotalRuns": "3",
+            "TotalBalls": "3",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "100.00"
+        },
+        "James Pattinson": {
+            "TotalRuns": "11",
+            "TotalBalls": "8",
+            "ToatlFours": "2",
+            "TotalSixes": "0",
+            "StrikeRate": "137.50"
+        },
+        "Rahul Chahar": {
+            "TotalRuns": "2",
+            "TotalBalls": "4",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "50.00"
+        },
+        "Boult": {
+            "TotalRuns": "0",
+            "TotalBalls": "1",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Bumrah": {
+            "TotalRuns": "5",
+            "TotalBalls": "3",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "166.67"
+        }
+    },
+    "Chennai Super Kings ": {
+        "Murali Vijay": {
+            "TotalRuns": "21",
+            "TotalBalls": "21",
+            "ToatlFours": "3",
+            "TotalSixes": "0",
+            "StrikeRate": "100.00"
+        },
+        "Shane Watson": {
+            "TotalRuns": "33",
+            "TotalBalls": "21",
+            "ToatlFours": "1",
+            "TotalSixes": "4",
+            "StrikeRate": "157.14"
+        },
+        "Faf du Plessis": {
+            "TotalRuns": "72",
+            "TotalBalls": "37",
+            "ToatlFours": "1",
+            "TotalSixes": "7",
+            "StrikeRate": "194.59"
+        },
+        "Sam Curran": {
+            "TotalRuns": "17",
+            "TotalBalls": "6",
+            "ToatlFours": "1",
+            "TotalSixes": "2",
+            "StrikeRate": "283.33"
+        },
+        "Ruturaj Gaikwad": {
+            "TotalRuns": "0",
+            "TotalBalls": "1",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Kedar Jadhav": {
+            "TotalRuns": "22",
+            "TotalBalls": "16",
+            "ToatlFours": "3",
+            "TotalSixes": "0",
+            "StrikeRate": "137.50"
+        },
+        "MS Dhoni (c) (wk)": {
+            "TotalRuns": "29",
+            "TotalBalls": "17",
+            "ToatlFours": "0",
+            "TotalSixes": "3",
+            "StrikeRate": "170.59"
+        },
+        "Ravindra Jadeja": {
+            "TotalRuns": "1",
+            "TotalBalls": "2",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "50.00"
+        }
+    },
+    "Delhi Capitals ": {
+        "Prithvi Shaw": {
+            "TotalRuns": "5",
+            "TotalBalls": "9",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "55.56"
+        },
+        "Dhawan": {
+            "TotalRuns": "0",
+            "TotalBalls": "2",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Hetmyer": {
+            "TotalRuns": "7",
+            "TotalBalls": "13",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "53.85"
+        },
+        "Shreyas Iyer (c)": {
+            "TotalRuns": "39",
+            "TotalBalls": "32",
+            "ToatlFours": "0",
+            "TotalSixes": "3",
+            "StrikeRate": "121.88"
+        },
+        "Pant (wk)": {
+            "TotalRuns": "31",
+            "TotalBalls": "29",
+            "ToatlFours": "4",
+            "TotalSixes": "0",
+            "StrikeRate": "106.90"
+        },
+        "Stoinis": {
+            "TotalRuns": "53",
+            "TotalBalls": "21",
+            "ToatlFours": "7",
+            "TotalSixes": "3",
+            "StrikeRate": "252.38"
+        },
+        "Axar": {
+            "TotalRuns": "6",
+            "TotalBalls": "9",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "66.67"
+        },
+        "Ashwin": {
+            "TotalRuns": "4",
+            "TotalBalls": "6",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "66.67"
+        },
+        "Rabada": {
+            "TotalRuns": "0",
+            "TotalBalls": "0",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Nortje": {
+            "TotalRuns": "3",
+            "TotalBalls": "1",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "300.00"
+        }
+    },
+    "Kings XI Punjab ": {
+        "Lokesh Rahul (c) (wk)": {
+            "TotalRuns": "21",
+            "TotalBalls": "19",
+            "ToatlFours": "2",
+            "TotalSixes": "1",
+            "StrikeRate": "110.53"
+        },
+        "Mayank Agarwal": {
+            "TotalRuns": "89",
+            "TotalBalls": "60",
+            "ToatlFours": "7",
+            "TotalSixes": "4",
+            "StrikeRate": "148.33"
+        },
+        "Karun Nair": {
+            "TotalRuns": "1",
+            "TotalBalls": "3",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "33.33"
+        },
+        "Nicholas Pooran": {
+            "TotalRuns": "0",
+            "TotalBalls": "3",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Glenn Maxwell": {
+            "TotalRuns": "1",
+            "TotalBalls": "4",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "25.00"
+        },
+        "Sarfaraz Khan": {
+            "TotalRuns": "12",
+            "TotalBalls": "12",
+            "ToatlFours": "2",
+            "TotalSixes": "0",
+            "StrikeRate": "100.00"
+        },
+        "Krishnappa Gowtham": {
+            "TotalRuns": "20",
+            "TotalBalls": "14",
+            "ToatlFours": "1",
+            "TotalSixes": "1",
+            "StrikeRate": "142.86"
+        },
+        "Chris Jordan": {
+            "TotalRuns": "5",
+            "TotalBalls": "6",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "83.33"
+        },
+        "Mohammed Shami": {
+            "TotalRuns": "0",
+            "TotalBalls": "0",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        }
+    },
+    "Royal Challengers Bangalore ": {
+        "Devdutt Padikkal": {
+            "TotalRuns": "56",
+            "TotalBalls": "42",
+            "ToatlFours": "8",
+            "TotalSixes": "0",
+            "StrikeRate": "133.33"
+        },
+        "Finch": {
+            "TotalRuns": "29",
+            "TotalBalls": "27",
+            "ToatlFours": "1",
+            "TotalSixes": "2",
+            "StrikeRate": "107.41"
+        },
+        "Kohli (c)": {
+            "TotalRuns": "14",
+            "TotalBalls": "13",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "107.69"
+        },
+        "de Villiers": {
+            "TotalRuns": "51",
+            "TotalBalls": "30",
+            "ToatlFours": "4",
+            "TotalSixes": "2",
+            "StrikeRate": "170.00"
+        },
+        "Shivam Dube": {
+            "TotalRuns": "7",
+            "TotalBalls": "8",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "87.50"
+        },
+        "Philippe (wk)": {
+            "TotalRuns": "1",
+            "TotalBalls": "2",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "50.00"
+        }
+    },
+    "Sunrisers Hyderabad ": {
+        "David Warner (c)": {
+            "TotalRuns": "6",
+            "TotalBalls": "6",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "100.00"
+        },
+        "Jonny Bairstow (wk)": {
+            "TotalRuns": "61",
+            "TotalBalls": "43",
+            "ToatlFours": "6",
+            "TotalSixes": "2",
+            "StrikeRate": "141.86"
+        },
+        "Manish Pandey": {
+            "TotalRuns": "34",
+            "TotalBalls": "33",
+            "ToatlFours": "3",
+            "TotalSixes": "1",
+            "StrikeRate": "103.03"
+        },
+        "Priyam Garg": {
+            "TotalRuns": "12",
+            "TotalBalls": "13",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "92.31"
+        },
+        "Vijay Shankar": {
+            "TotalRuns": "0",
+            "TotalBalls": "1",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Abhishek Sharma": {
+            "TotalRuns": "7",
+            "TotalBalls": "4",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "175.00"
+        },
+        "Rashid Khan": {
+            "TotalRuns": "6",
+            "TotalBalls": "5",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "120.00"
+        },
+        "Bhuvneshwar Kumar": {
+            "TotalRuns": "0",
+            "TotalBalls": "2",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Sandeep Sharma": {
+            "TotalRuns": "9",
+            "TotalBalls": "6",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "150.00"
+        },
+        "Mitchell Marsh": {
+            "TotalRuns": "0",
+            "TotalBalls": "1",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "T Natarajan": {
+            "TotalRuns": "3",
+            "TotalBalls": "4",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "75.00"
+        }
+    },
+    "Rajasthan Royals ": {
+        "Jaiswal": {
+            "TotalRuns": "6",
+            "TotalBalls": "6",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "100.00"
+        },
+        "Steven Smith (c)": {
+            "TotalRuns": "69",
+            "TotalBalls": "47",
+            "ToatlFours": "4",
+            "TotalSixes": "4",
+            "StrikeRate": "146.81"
+        },
+        "Samson (wk)": {
+            "TotalRuns": "74",
+            "TotalBalls": "32",
+            "ToatlFours": "1",
+            "TotalSixes": "9",
+            "StrikeRate": "231.25"
+        },
+        "Miller": {
+            "TotalRuns": "0",
+            "TotalBalls": "0",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "0.00"
+        },
+        "Uthappa": {
+            "TotalRuns": "5",
+            "TotalBalls": "9",
+            "ToatlFours": "0",
+            "TotalSixes": "0",
+            "StrikeRate": "55.56"
+        },
+        "Rahul Tewatia": {
+            "TotalRuns": "10",
+            "TotalBalls": "8",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "125.00"
+        },
+        "Riyan Parag": {
+            "TotalRuns": "6",
+            "TotalBalls": "4",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "150.00"
+        },
+        "Tom Curran": {
+            "TotalRuns": "10",
+            "TotalBalls": "9",
+            "ToatlFours": "1",
+            "TotalSixes": "0",
+            "StrikeRate": "111.11"
+        },
+        "Jofra Archer": {
+            "TotalRuns": "27",
+            "TotalBalls": "8",
+            "ToatlFours": "0",
+            "TotalSixes": "4",
+            "StrikeRate": "337.50"
+        }
+    }
+}
